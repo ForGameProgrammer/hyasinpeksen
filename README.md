@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H. Yasin Pekşen</h1>
-<h3 align="center">A lazy/efficient backend developer and a team lead</h3>
+<h3 align="center">Backend developer in the wild</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpeksen&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpeksen" /> </p>
 
