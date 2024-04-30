@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpeksen&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpeksen" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hyasinpeksen" target="blank"><img src="https://img.shields.io/twitter/follow/hyasinpeksen?logo=twitter&style=for-the-badge" alt="hyasinpeksen" /></a> </p>
-
 - 🔭 I’m currently working on **multiple projects (node.js, Python, .Net)**
 
 - 🌱 I’m currently learning **Rust**
