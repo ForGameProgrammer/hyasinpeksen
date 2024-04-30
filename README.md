@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hyasinpeksen" target="blank"><img src="https://img.shields.io/twitter/follow/hyasinpeksen?logo=twitter&style=for-the-badge" alt="hyasinpeksen" /></a> </p>
 
-- 🔭 I’m currently working on **multiple projects (node.js, Rust, Python, .Net)**
+- 🔭 I’m currently working on **multiple projects (node.js, Python, .Net)**
 
-- 🌱 I’m currently learning **Rust, Kubernetes**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
