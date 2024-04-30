@@ -35,6 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinpeksen&show_icons=true&locale=en&layout=compact" alt="yasinpeksen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinpeksen&show_icons=true&locale=en" alt="yasinpeksen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinpeksen&" alt="yasinpeksen" /></p>
